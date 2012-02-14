@@ -1,0 +1,19 @@
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: true
+pygments: true
+
+title : city.py
+tagline: Питон в твоем городе
+author :
+  name : Volodymyr Hotsyk, Yury Yurevich
+  github : citypy
+  twitter : citypyorg
+
+production_url : http://citypy.github.com
+  
+JB:
+  # Theme grabbed from JekyllBootstrap 0.2.0
+  version: 0.2.0
+  BASE_PATH : false
+  ASSET_PATH : false
+  HOME_PATH : /
