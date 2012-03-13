@@ -6,27 +6,12 @@ title: Питон в твоем городе
 
 ### Твой город
 
- * kyiv.py
-
-   Информация на [PyconUA](http://ua.pycon.org).
-
- * odessa.py
-
-   Михаил Кашкин проводит дринкапы. Его [блог](http://www.vurt.ru/).
-
- * kharkiv.py
-
-   [Официальный сайт](http://kharkivpy.org.ua/).
-
+ * kyiv.py: Информация на [PyconUA](http://ua.pycon.org).
+ * odessa.py: Михаил Кашкин проводит дринкапы. Его [блог](http://www.vurt.ru/).
+ * kharkiv.py: [Официальный сайт](http://kharkivpy.org.ua/).
  * lviv.py
- * ekb.py
-
-   [Официальный сайт](http://ekbpy.ru/)
-
- * samara.py
-
-   - twitter @samarapy
-   - [Официальный сайт](http://samarapy.ru)
+ * ekb.py: [Официальный сайт](http://ekbpy.ru/)
+ * samara.py: twitter @samarapy, [Официальный сайт](http://samarapy.ru)
 
 <iframe
   width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
