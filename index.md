@@ -12,6 +12,7 @@ title: Питон в твоем городе
  * lviv.py
  * ekb.py: [Официальный сайт](http://ekbpy.ru/)
  * samara.py: twitter @samarapy, [Официальный сайт](http://samarapy.ru)
+ * ivanovo.py: Мероприятие в Иваново, Константинов Евгений [Официальный сайт](http://pycon.konstructor.pro)
 
 <iframe
   width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
